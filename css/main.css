@@ -27,7 +27,8 @@ header {
   color: white;
 }
 
-#desktop-nav, #desktop-nav ul {
+#desktop-nav,
+#desktop-nav ul {
   display: none;
 }
 
@@ -416,7 +417,7 @@ textarea {
     brightness(92%) contrast(82%);
 }
 
-.toggled{
+.toggled {
   background-color: #1c1a19;
   display: flex;
   flex-direction: column;
@@ -446,7 +447,8 @@ textarea {
   color: #d2d5db;
 }
 
-.bigger:hover, .bigger:visited {
+.bigger:hover,
+.bigger:visited {
   color: #d2d5db;
 }
 
